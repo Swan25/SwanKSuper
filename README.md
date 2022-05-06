@@ -27,3 +27,4 @@ pod 'SwanKSuper'
 ## License
 
 SwanKSuper is available under the MIT license. See the LICENSE file for more info.
+# SwanKSuper
