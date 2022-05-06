@@ -1,0 +1,16 @@
+PODS:
+  - SwanKSuper (0.1.0)
+
+DEPENDENCIES:
+  - SwanKSuper (from `../`)
+
+EXTERNAL SOURCES:
+  SwanKSuper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwanKSuper: 3a9fe250e29b6563d2fd7796105b99412fc02599
+
+PODFILE CHECKSUM: 4cfa09630070926eab62192df0a6f405462cecf5
+
+COCOAPODS: 1.9.3

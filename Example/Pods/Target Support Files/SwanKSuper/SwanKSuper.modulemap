@@ -1,0 +1,6 @@
+framework module SwanKSuper {
+  umbrella header "SwanKSuper-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SwanKSuper",
+  "version": "0.1.0",
+  "summary": "A short description of SwanKSuper.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1486193638@qq.com/SwanKSuper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1486193638@qq.com": "1486193638@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/1486193638@qq.com/SwanKSuper.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SwanKSuper/Classes/**/*"
+}
