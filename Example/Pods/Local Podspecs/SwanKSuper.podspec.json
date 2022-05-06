@@ -1,6 +1,6 @@
 {
   "name": "SwanKSuper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A short description of SwanKSuper.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/Swan25/SwanKSuper",
@@ -12,8 +12,8 @@
     "1486193638@qq.com": "1486193638@qq.com"
   },
   "source": {
-    "git": "https://github.com/Swan25/SwanKSuper.git",
-    "tag": "0.1.0"
+    "git": "https://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@github.com/Swan25/SwanKSuper.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "9.0"
